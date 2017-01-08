@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Travellers</string>
+    <string name="appbar_scrolling_view_behavior">appbar_scrolling_view_behavior</string>
+
+    <!--首页底部tab-->
+    <string-array name="tabs_title">
+        <item nane="featurespot">景点</item>
+        <item name="map">地图</item>
+        <item name="commonsense">常识</item>
+        <item name="myself">我的</item>
+    </string-array>
 </resources>
